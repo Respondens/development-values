@@ -58,7 +58,7 @@ Concepts to dive deeper: **kaizen**, CI/CD, Agile, getting things done, strangle
 Focus interactions on knowledge sharing, it is a more important output than the code itself.
 
 For example:
-- Code review isn’t about finding bugs (although that is a nice side effect) but about knowing whether we think the same about concepts
+- Code review isn’t about finding bugs (although that is a nice side effect) but about knowing whether we think the same about concepts.
 - During incident follow-ups it is less interesting to find the root cause / blame, and more effective to exchange how each person interprets the systems. Then you’ll learn where it might have gone wrong and are in a better shape to come up with solutions, also in the future.
 - Have an ubiquitous language for the concepts. Come up with terms, stick to them, re-use them for everything. From css classes to database tables.
 
@@ -76,7 +76,7 @@ We can always discuss the amount of effort that goes into improving this, but no
 Focus on:
 - Use native components to stay close to what people expect.
 - Discuss features before building to practice privacy & security by design.
-- Explain the ways data can leak, accessibility can help different types of users.
+- Explain the ways data can leak, or how accessibility can help different types of users.
 - Dive into the laws governing IT so you can help the organization staying compliant.
 
 
